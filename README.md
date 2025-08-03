@@ -1,7 +1,6 @@
+![GitHub Widget](https://github-widgetbox.vercel.app/api/profile?username=Shankar98183235&data=followers,stars,commits&theme=radical)
 
-<b align = "center">SANKARA VENKATA MANIKANTA THORATI</b>
 
-#  About Me:
 <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=450&lines=Building+cool+web+experiences...;Fresher+Ready+to+work!;Learning+day+by+day+%F0%9F%93%96;Team+Player+%E2%9C%94+Problem+Solver+%E2%9C%94" />
