@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Shankar98183235/Shankar98183235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
@@ -25,5 +24,3 @@
     <img src="https://github-contributor-stats.vercel.app/api?username=Shankar98183235&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 
 
-
----
