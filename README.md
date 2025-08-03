@@ -1,7 +1,9 @@
 ![GitHub Widget](https://github-widgetbox.vercel.app/api/profile?username=Shankar98183235&data=followers,stars,commits&theme=radical)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=450&lines=Building+cool+web+experiences...;Fresher+Ready+to+work!;Learning+day+by+day+%F0%9F%93%96;Team+Player+%E2%9C%94+Problem+Solver+%E2%9C%94" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=BB00FF&center=true&vCenter=true&width=500&height=60&lines=About+Me" alt="About Me" />
@@ -9,27 +11,13 @@
 
 </p>
 
-
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
-
-  <!-- Text Block -->
-  <div style="flex: 1; min-width: 300px; max-width: 600px; padding: 20px;">
-    <p align="justify" style="font-size: 16px; line-height: 1.6;">
-      Hi, I’m <strong>Manikanta</strong> — a Full-Stack Developer (Fresher).<br><br>
+<p align="left" style="max-width: 600px; font-family: monospace; font-size: 14px; line-height: 1.6;">
+   Hi, I’m <strong>Manikanta</strong>, a full-stack developer (fresher).
       A graduate of VIT College, Bhimavaram, I specialize in building interactive, visually compelling web experiences.
-      I’m currently exploring advanced ReactJS and backend APIs, with a strong interest in crafting seamless, aesthetic user interfaces.
-      <br><br>
-      I’m eager to contribute to real-world projects, collaborate with innovative teams, and stay updated with the latest trends.
-      My passion for coding and design drives me to learn continuously and create web pages that feel truly ✨ alive and engaging ✨.
-    </p>
-  </div>
-
-  <!-- Image Block -->
-  <div style="flex-shrink: 0; padding: 20px;">
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/your-image.png" alt="Sketch of Manikanta" width="280" style="border-radius: 10px;" />
-  </div>
-
-</div>
+      I’m currently exploring <strong>ReactJS</strong> and <strong>backend APIs</strong>, with a focus on crafting aesthetic and seamless UIs.
+      I’m excited to contribute to real-world projects, team up with innovative minds, and keep learning.
+      My passion lies in writing clean code & designing interfaces that feel ✨ alive ✨.
+</p>
 
 
 <br>
