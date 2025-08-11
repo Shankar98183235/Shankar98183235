@@ -13,7 +13,7 @@
 
 <p align="left" style="max-width: 600px; font-family: monospace; font-size: 14px; line-height: 1.6;">
    Hi, I’m <strong>Manikanta</strong>, a full-stack developer (fresher).
-      A graduate of VIT College, Bhimavaram, I specialize in building interactive, visually compelling web experiences.
+      A graduate of VIT College, Bhimavaram, I specialize in building interactive, visually attracting web experiences.
       I’m currently exploring <strong>ReactJS</strong> and <strong>backend APIs</strong>, with a focus on crafting aesthetic and seamless UIs.
       I’m excited to contribute to real-world projects, team up with innovative minds, and keep learning.
       My passion lies in writing clean code & designing interfaces that feel ✨ alive ✨.
