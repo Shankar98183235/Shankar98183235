@@ -1,4 +1,6 @@
 ![GitHub Widget](https://github-widgetbox.vercel.app/api/profile?username=Shankar98183235&data=followers,stars,commits&theme=radical)
+![Profile views](https://komarev.com/ghpvc/?username=Shankar98183235&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 <p align="center">
