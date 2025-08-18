@@ -29,9 +29,6 @@
 
 <h2 align="center"><img src="Let’s Create together.gif"></h2>
 
-
-
-
 <p align="center">
   <a href="https://instagram.com/manikanta_kumar_h" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
