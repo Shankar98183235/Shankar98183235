@@ -11,8 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=BB00FF&center=true&vCenter=true&width=500&height=60&lines=About+Me" alt="About Me" />
 </p>
 
-</p>
-
 <p align="left" style="max-width: 600px; font-family: monospace; font-size: 14px; line-height: 1.6;">
    Hi, I’m <strong>Manikanta</strong>, a full-stack developer (fresher).
       A graduate of VIT College, Bhimavaram, I specialize in building interactive, visually attracting web experiences.
@@ -20,7 +18,6 @@
       I’m excited to contribute to real-world projects, team up with innovative minds, and keep learning.
       My passion lies in writing clean code & designing interfaces that feel ✨ alive ✨.
 </p>
-
 
 <br>
  <p  align="center">
@@ -57,7 +54,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=BB00FF&center=true&vCenter=true&width=500&height=60&lines=Git+Hub+Stats" alt="GitHub Stats" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shankar98183235&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="180px"/>
