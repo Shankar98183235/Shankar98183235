@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=BB00FF&center=true&vCenter=true&width=500&height=60&lines=About+Me" alt="About Me" />
 </p>
 
